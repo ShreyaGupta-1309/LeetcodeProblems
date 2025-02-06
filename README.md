@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 ## Union Find
 |  |
 | ------- |
@@ -101,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
