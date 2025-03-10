@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0908-middle-of-the-linked-list](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0908-middle-of-the-linked-list) |
 | [1168-duplicate-zeros](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1168-duplicate-zeros) |
 ## Sorting
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sliding Window
 |  |
