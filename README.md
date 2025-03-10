@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
