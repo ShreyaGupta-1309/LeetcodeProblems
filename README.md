@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1603-running-sum-of-1d-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1603-running-sum-of-1d-array) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Recursion
 |  |
 | ------- |
@@ -137,5 +140,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
