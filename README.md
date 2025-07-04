@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -135,11 +136,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0050-powx-n) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
 |  |
 | ------- |
