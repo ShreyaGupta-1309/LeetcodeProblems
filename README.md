@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
