@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0756-pyramid-transition-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
