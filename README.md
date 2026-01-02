@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0896-monotonic-array) |
+| [0941-valid-mountain-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1168-duplicate-zeros](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
