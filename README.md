@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2402-meeting-rooms-iii) |
 | [2448-count-number-of-bad-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
+| [3379-transformed-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3379-transformed-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0067-add-binary) |
 | [2402-meeting-rooms-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2402-meeting-rooms-iii) |
+| [3379-transformed-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3379-transformed-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
 |  |
