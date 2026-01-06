@@ -290,12 +290,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 ## String Matching
 |  |
@@ -311,12 +313,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
