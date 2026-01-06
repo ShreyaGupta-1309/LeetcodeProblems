@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0932-beautiful-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0932-beautiful-array) |
 ## Counting
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -320,9 +323,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0561-array-partition) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
