@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0330-patching-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0330-patching-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0561-array-partition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0525-contiguous-array) |
