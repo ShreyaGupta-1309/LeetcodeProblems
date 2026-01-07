@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0048-rotate-image) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0169-majority-element) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
