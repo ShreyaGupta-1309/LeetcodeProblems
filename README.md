@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0056-merge-intervals) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0217-contains-duplicate) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0125-valid-palindrome) |
