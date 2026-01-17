@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3379-transformed-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3454-separate-squares-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1390-four-divisors) |
 | [2448-count-number-of-bad-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Prefix Sum
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Segment Tree
 |  |
 | ------- |
