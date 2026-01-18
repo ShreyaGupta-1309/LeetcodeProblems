@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1895-largest-magic-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1895-largest-magic-square) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1975-maximum-matrix-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1603-running-sum-of-1d-array) |
+| [1895-largest-magic-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1895-largest-magic-square) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
 ## Linked List
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1975-maximum-matrix-sum) |
 ## Enumeration
