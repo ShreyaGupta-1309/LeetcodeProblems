@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0724-find-pivot-index) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1895-largest-magic-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1895-largest-magic-square) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1895-largest-magic-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1970-last-day-where-you-can-still-cross) |
