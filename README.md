@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
@@ -347,10 +350,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0079-word-search) |
 | [0756-pyramid-transition-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
