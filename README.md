@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3454-separate-squares-ii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
