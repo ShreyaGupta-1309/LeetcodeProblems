@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1845-seat-reservation-manager](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1845-seat-reservation-manager) |
 | [2402-meeting-rooms-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0303-range-sum-query-immutable) |
+| [1845-seat-reservation-manager](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1845-seat-reservation-manager) |
 ## Doubly-Linked List
 |  |
 | ------- |
