@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0896-monotonic-array) |
 | [0932-beautiful-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0932-beautiful-array) |
 | [0941-valid-mountain-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0941-valid-mountain-array) |
+| [0954-array-of-doubled-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0954-array-of-doubled-pairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1168-duplicate-zeros](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0561-array-partition) |
+| [0954-array-of-doubled-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0954-array-of-doubled-pairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2402-meeting-rooms-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0954-array-of-doubled-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0954-array-of-doubled-pairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0330-patching-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0330-patching-array) |
 | [0561-array-partition](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0561-array-partition) |
+| [0954-array-of-doubled-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0954-array-of-doubled-pairs) |
 | [1975-maximum-matrix-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1975-maximum-matrix-sum) |
 ## Bit Manipulation
 |  |
