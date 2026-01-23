@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3454-separate-squares-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0908-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2549-count-distinct-numbers-on-board) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Union Find
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2549-count-distinct-numbers-on-board) |
 | [3379-transformed-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
 |  |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-seat-reservation-manager](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1845-seat-reservation-manager) |
 | [2402-meeting-rooms-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -448,8 +453,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
