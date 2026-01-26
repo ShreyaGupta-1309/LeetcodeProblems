@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0200-number-of-islands) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0110-balanced-binary-tree) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0110-balanced-binary-tree) |
