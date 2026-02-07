@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
 | [1408-string-matching-in-an-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1408-string-matching-in-an-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
