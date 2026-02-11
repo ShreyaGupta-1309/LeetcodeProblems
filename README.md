@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3721-longest-balanced-subarray-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1895-largest-magic-square) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0191-number-of-1-bits) |
 | [0932-beautiful-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0932-beautiful-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
+| [3721-longest-balanced-subarray-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Counting
 |  |
 | ------- |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3454-separate-squares-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
 |  |
 | ------- |
