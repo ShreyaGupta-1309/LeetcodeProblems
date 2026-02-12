@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Union Find
 |  |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
+| [3713-longest-balanced-substring-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3396-valid-word) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0204-count-primes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3713-longest-balanced-substring-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
 |  |
 | ------- |
