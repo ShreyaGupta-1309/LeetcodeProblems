@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Geometry
 |  |
