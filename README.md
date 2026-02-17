@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0053-maximum-subarray) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0055-jump-game) |
 | [0330-patching-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0330-patching-array) |
 | [0561-array-partition](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0561-array-partition) |
