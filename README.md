@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0079-word-search) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0068-text-justification) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
