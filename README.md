@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0050-powx-n) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1408-string-matching-in-an-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1408-string-matching-in-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2402-meeting-rooms-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2402-meeting-rooms-iii) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2549-count-distinct-numbers-on-board) |
