@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3640-trionic-array-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1895-largest-magic-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1895-largest-magic-square) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3714-longest-balanced-substring-ii) |
