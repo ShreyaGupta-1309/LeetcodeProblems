@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0932-beautiful-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2549-count-distinct-numbers-on-board) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3454-separate-squares-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0304-range-sum-query-2d-immutable) |
+| [1622-fancy-sequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1622-fancy-sequence) |
 | [1845-seat-reservation-manager](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1845-seat-reservation-manager) |
 ## Doubly-Linked List
 |  |
