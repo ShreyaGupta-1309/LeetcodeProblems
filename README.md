@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3640-trionic-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0908-middle-of-the-linked-list) |
 | [1168-duplicate-zeros](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1168-duplicate-zeros) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
 | ------- |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Enumeration
 |  |
