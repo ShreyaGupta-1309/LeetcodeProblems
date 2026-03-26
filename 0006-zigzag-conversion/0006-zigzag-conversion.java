@@ -1,15 +1,19 @@
 class Solution {
     public String convert(String s, int numRows) {
-        if(numRows == 1) return s;
-        StringBuilder a = new StringBuilder();
-        for(int i = 0; i < numRows; i++){
-            for(int j = i; j < s.length(); j += (2 * (numRows - 1))){
-                a.append(s.charAt(j));
-                if(i > 0 && i < numRows - 1 && j + (2 * (numRows - 1)) - (2 * i) < s.length()){
-                    a.append(s.charAt(j + (2 * (numRows - 1)) - (2 * i)));
+        int n = s.length();
+        if (numRows == 1 || numRows >= n) {
+            return s;
+        }
+        int cycle = 2 * numRows - 2;
+        StringBuilder ans = new StringBuilder();
+        for (int row = 0; row < numRows; row++) {
+            for (int j = 0; j + row < n; j += cycle) {
+                ans.append(s.charAt(j + row));
+                if (row > 0 && row < numRows - 1 && j + cycle - row < n) {
+                    ans.append(s.charAt(j + cycle - row));
                 }
             }
         }
-        return a.toString();
+        return ans.toString();
     }
 }
