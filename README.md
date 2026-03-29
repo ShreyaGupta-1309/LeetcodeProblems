@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0079-word-search) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0169-majority-element) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0200-number-of-islands) |
