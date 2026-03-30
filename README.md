@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0330-patching-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0330-patching-array) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0289-game-of-life) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
