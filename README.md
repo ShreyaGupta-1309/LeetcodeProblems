@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2402-meeting-rooms-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2402-meeting-rooms-iii) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2402-meeting-rooms-iii) |
 | [2448-count-number-of-bad-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2549-count-distinct-numbers-on-board) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3396-valid-word](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3396-valid-word) |
