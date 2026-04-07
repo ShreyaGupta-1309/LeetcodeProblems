@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2402-meeting-rooms-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2402-meeting-rooms-iii) |
 | [2549-count-distinct-numbers-on-board](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2549-count-distinct-numbers-on-board) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0304-range-sum-query-2d-immutable) |
 | [1622-fancy-sequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1622-fancy-sequence) |
 | [1845-seat-reservation-manager](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1845-seat-reservation-manager) |
+| [2069-walking-robot-simulation-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2069-walking-robot-simulation-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
