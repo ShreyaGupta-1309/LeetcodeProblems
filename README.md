@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0799-champagne-tower) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0761-special-binary-string) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1408-string-matching-in-an-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1408-string-matching-in-an-array) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
