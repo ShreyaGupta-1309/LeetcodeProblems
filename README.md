@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Union Find
 |  |
 | ------- |
