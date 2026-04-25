@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3454-separate-squares-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3488-closest-equal-element-queries](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3454-separate-squares-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -757,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Segment Tree
 |  |
 | ------- |
