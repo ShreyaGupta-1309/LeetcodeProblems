@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0561-array-partition) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0392-is-subsequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [0932-beautiful-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0932-beautiful-array) |
