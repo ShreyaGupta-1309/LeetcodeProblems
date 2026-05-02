@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [0932-beautiful-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0932-beautiful-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
