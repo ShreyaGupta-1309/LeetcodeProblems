@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1408-string-matching-in-an-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1408-string-matching-in-an-array) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1408-string-matching-in-an-array) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Memoization
