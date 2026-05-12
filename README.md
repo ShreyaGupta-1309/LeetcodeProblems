@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1603-running-sum-of-1d-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0954-array-of-doubled-pairs) |
 | [1200-minimum-absolute-difference](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0954-array-of-doubled-pairs) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
