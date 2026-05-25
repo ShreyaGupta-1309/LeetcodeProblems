@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1871-jump-game-vii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1895-largest-magic-square) |
 | [2615-sum-of-distances](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2615-sum-of-distances) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1871-jump-game-vii) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
+| [1871-jump-game-vii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
