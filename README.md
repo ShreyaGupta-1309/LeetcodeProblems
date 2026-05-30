@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2540-minimum-common-value](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3454-separate-squares-ii) |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3454-separate-squares-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
@@ -922,4 +925,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
