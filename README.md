@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0874-walking-robot-simulation) |
 | [0954-array-of-doubled-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0954-array-of-doubled-pairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1408-string-matching-in-an-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1408-string-matching-in-an-array) |
