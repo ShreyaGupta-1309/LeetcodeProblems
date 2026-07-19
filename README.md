@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2751-robot-collisions) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0330-patching-array) |
 | [0561-array-partition](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0954-array-of-doubled-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0954-array-of-doubled-pairs) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
