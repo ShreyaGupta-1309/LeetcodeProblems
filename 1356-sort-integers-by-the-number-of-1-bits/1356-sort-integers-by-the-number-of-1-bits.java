@@ -1,15 +1,21 @@
 class Solution {
     public int[] sortByBits(int[] arr) {
-        final int MAGIC_NUMBER = 10001;
+        java.util.TreeMap<Integer, java.util.PriorityQueue<Integer>> bitmap = new java.util.TreeMap<>();
 
-        for(int i = 0; i < arr.length; i++){
-            arr[i] += Integer.bitCount(arr[i]) * MAGIC_NUMBER;
+        for(int val : arr){
+            int bits = Integer.bitCount(val);
+            bitmap.putIfAbsent(bits, new java.util.PriorityQueue<>());
+            bitmap.get(bits).add(val);
         }
-        Arrays.sort(arr);
+        int[] ans = new int[arr.length];
+        int index = 0;
 
-        for(int i = 0; i < arr.length; i++){
-            arr[i] %= MAGIC_NUMBER;
+        for(int key : bitmap.keySet()){
+            java.util.PriorityQueue<Integer>pq = bitmap.get(key);
+            while(!pq.isEmpty()){
+                ans[index++] = pq.poll();
+            }
         }
-        return arr;
+        return ans;
     }
 }
