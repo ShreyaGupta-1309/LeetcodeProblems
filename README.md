@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3634-minimum-removals-to-balance-array) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
