@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0792-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0761-special-binary-string) |
 | [0954-array-of-doubled-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0954-array-of-doubled-pairs) |
 | [1200-minimum-absolute-difference](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1200-minimum-absolute-difference) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
