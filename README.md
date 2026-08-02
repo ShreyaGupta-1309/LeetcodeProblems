@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0792-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0896-monotonic-array) |
 | [0932-beautiful-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0932-beautiful-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1340-jump-game-v) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0932-beautiful-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -1150,4 +1153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
