@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0941-valid-mountain-array) |
 | [0954-array-of-doubled-pairs](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0954-array-of-doubled-pairs) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1140-stone-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1168-duplicate-zeros](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1168-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1200-minimum-absolute-difference) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1340-jump-game-v) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0932-beautiful-array) |
+| [1140-stone-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1390-four-divisors) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1194,14 +1198,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1406-stone-game-iii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
