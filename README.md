@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0069-sqrtx) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
