@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0228-summary-ranges) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0792-binary-search) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0304-range-sum-query-2d-immutable) |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1871-jump-game-vii) |
