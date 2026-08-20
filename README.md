@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0055-jump-game) |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0079-word-search) |
@@ -1292,4 +1294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1510-stone-game-iv) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
