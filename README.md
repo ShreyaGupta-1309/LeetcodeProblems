@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-jump-game-vii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2463-minimum-total-distance-traveled](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2573-find-the-string-with-lcp) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2029-stone-game-ix) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1895-largest-magic-square) |
 | [2574-left-and-right-sum-differences](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2574-left-and-right-sum-differences) |
@@ -1281,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -1288,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1295,6 +1301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/2029-stone-game-ix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
