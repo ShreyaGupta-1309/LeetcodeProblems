@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0792-binary-search) |
+| [0835-image-overlap](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0877-stone-game) |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0835-image-overlap](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1301-number-of-paths-with-max-score) |
