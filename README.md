@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0932-beautiful-array) |
@@ -1196,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
