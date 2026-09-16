@@ -610,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0696-count-binary-substrings) |
