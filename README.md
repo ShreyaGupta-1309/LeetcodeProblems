@@ -866,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0696-count-binary-substrings) |
@@ -1089,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
 | [1096-brace-expansion-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1096-brace-expansion-ii) |
@@ -1137,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0301-remove-invalid-parentheses) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1096-brace-expansion-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1096-brace-expansion-ii) |
