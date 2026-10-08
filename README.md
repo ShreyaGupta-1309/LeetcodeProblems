@@ -731,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0144-binary-tree-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1189-maximum-number-of-balloons) |
@@ -1389,6 +1391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShreyaGupta-1309/LeetcodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
